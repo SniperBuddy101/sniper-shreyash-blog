@@ -1,5 +1,5 @@
 ---
-title: Hello World
+title: Hello World. I'm Shreyash and I Snipe! 
 date: "2020-12-17T22:12:03.284Z"
 description: "This is my first blog post on this blog! Get to know who I am and why I created this blog."
 ---
