@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Sniper Shreyash's Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Shreyash Karnik`,
+      summary: `who lives and works in Indore building useful things.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Expressing my views on certain topics. Mostly on tech.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `shreyashkarnik`,
     },
   },
   plugins: [
