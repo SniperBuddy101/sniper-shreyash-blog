@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Sniper Shreyash's Blog`,
+    title: `Where Shreyash Snipes`,
     author: {
       name: `Shreyash Karnik`,
       summary: `who lives and works in Indore building useful things.`,
