@@ -12,7 +12,7 @@
 
 **It's funny you ask. I'm Shreyash.**
 
-## 😄 Okay. So, who was this created?
+## 😄 Okay. So, how was this created?
 
 **Good. We're making progress. This was created using [Gatsby's blog starter.](https://www.gatsbyjs.com/docs/gatsby-starters/)**
 
