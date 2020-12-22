@@ -1,7 +1,7 @@
 ---
 title: What in the world is Docker and is it important? 
 date: "2020-12-22T22:12:03.284Z"
-description: "This is my first blog post on this blog! Get to know who I am and why I created this blog."
+description: "In recent times, you might've heard the term **Container** and might've wondered what exactly is it and why does it even exist? Let me answer that for you."
 ---
 
 Hey buddy.
