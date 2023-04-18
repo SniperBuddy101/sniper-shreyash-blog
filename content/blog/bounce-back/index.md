@@ -1,3 +1,11 @@
+---
+title: Bouncing back
+date: "2023-04-18T22:12:03.284Z"
+description: "Bouncing back to this blog"
+---
+
+
+
 Hey Internet!
 Long time, no read.
 It's been a long time since I posted here.
